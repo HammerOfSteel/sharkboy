@@ -3,6 +3,8 @@
 Boy Shark: 
 - The Rogue-like Adventure is a unique game that combines elements of exploration, puzzle-solving, and rogue-like mechanics. The game follows the story of a young boy who is half shark, navigating through various underwater and above-water environments.
 
+![screenshot](sharkboy.webp)
+
 ## Story Background
 Prologue
 - There was a boy who was half shark. Instead of a school backpack, he had a shark fin. Instead of sneakers, he had swim feet. One day during a PE lesson, he swam faster, farther, and better than any other boy. Not because he was half shark, but because he had a good day. During the lesson, he discovered an underwater vent in the school pool. Curious, he ventured through it, leading him down a mysterious path to a lake near the school. This marked the beginning of his extraordinary adventure.
